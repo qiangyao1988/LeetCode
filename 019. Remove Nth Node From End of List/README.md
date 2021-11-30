@@ -1,5 +1,5 @@
 # Idea
 
-Need to familiar with linked list. 
+One pass algorithm:
 
-Keep in mind node structure and linked list basic operations. 
+two pointer: the fast pointer is n earlier than the slow pointer
