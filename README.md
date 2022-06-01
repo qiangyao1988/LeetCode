@@ -3,7 +3,7 @@
 [LeetCode](https://leetcode.com/) solutions in Python
 
 | Title                                                        | Code                                                         | Note                                                         | Difficulty | Tag         | Important          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----------- | ------------------ |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ----------- | ------------------ |
 | [Two Sum](https://leetcode.com/problems/two-sum)             | [Python](001.%20Two%20Sum/solution.py)                       | [Note](001.%20Two%20Sum)                                     | Easy       | Two Pointer | :star::star::star: |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](704.%20Binary%20Search/solution.py)                 | [Note](704.%20Binary%20Search)                               | Easy       |             | :star::star::star: |
 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](707.%20Design%20Linked%20List/solution.py)          | [Note](707.%20Design%20Linked%20List)                        | Medium     |             |                    |
