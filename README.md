@@ -37,4 +37,5 @@
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) |                                                              | [Note](547.%20Number%20of%20Provinces)                       | Medium     |             |                    |
 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Python](1971.%20Find%20if%20Path%20Exists%20in%20Graph/solution.py) | [Note](1971.%20Find%20if%20Path%20Exists%20in%20Graph)       | Easy       |             |                    |
 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](516.%20Longest%20Palindromic%20Subsequence/solution.py) | [Note](516.%20Longest%20Palindromic%20Subsequence)           | Medium     |             |                    |
+| [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Python](190.%20Reverse%20Bits/solution.py)                  | [Note](190.%20Reverse%20Bits)                                | Easy       | Recurrence  | :star::star:       |
 
