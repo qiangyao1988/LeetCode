@@ -39,4 +39,5 @@
 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](516.%20Longest%20Palindromic%20Subsequence/solution.py) | [Note](516.%20Longest%20Palindromic%20Subsequence)           | Medium     |             |                    |
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Python](190.%20Reverse%20Bits/solution.py)                  | [Note](190.%20Reverse%20Bits)                                | Easy       | Recurrence  | :star::star:       |
 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](24.%20Swap%20Nodes%20in%20Pairs/solution.py)        | [Note](24.%20Swap%20Nodes%20in%20Pairs)                      | Easy       | Recurrence  | :star::star:       |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](104.%20Maximum%20Depths%20of%20Binary%20Tree/solution.py) | [Note](104.%20Maximum%20Depths%20of%20Binary%20Tree)         | Easy       | Recurrence  | :star:             |
 
