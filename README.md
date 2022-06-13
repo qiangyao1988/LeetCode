@@ -42,4 +42,5 @@
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](104.%20Maximum%20Depths%20of%20Binary%20Tree/solution.py) | [Note](104.%20Maximum%20Depths%20of%20Binary%20Tree)         | Easy       | Recurrence         | :star:             |
 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](654.%20Maximum%20Binary%20Tree/solution.py)         | [Note](654.%20Maximum%20Binary%20Tree)                       | Medium     | Recurrence         | :star::star::star: |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](110.%20Balanced%20Binary%20Tree/solution.py)        | [Note](110.%20Balanced%20Binary%20Tree)                      | Easy       | Divide and Conquer | :star::star::star: |
+| [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](268.%20Missing%20Number/solution.py)                | [Note](268.%20Missing%20Number)                              | Easy       |                    | :star:             |
 
