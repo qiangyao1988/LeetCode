@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
+    # reverse each pointer until the tail pointer 
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         prev = None
         while head:
